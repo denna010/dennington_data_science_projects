@@ -1,3 +1,3 @@
-# data_science_projects
+# Data Science Projects
 
 This is a collection of the projects I have been working/collaborating on for my Data Science MSc and Mathematics With Statistics BSc
